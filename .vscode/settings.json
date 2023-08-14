@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://alyjnlew:SmBcv-0psB-E9PVTv4hnKuErlkjg5FHE@ruby.db.elephantsql.com/alyjnlew",
+            "name": "ruby.db.elephantsql.com (ruby-01)"
+        }
+    ]
+}
